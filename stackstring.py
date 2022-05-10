@@ -1,3 +1,5 @@
+# Developed by Johan Hammond
+
 from pwn import *
 
 string = b"ws2_32.dll"
